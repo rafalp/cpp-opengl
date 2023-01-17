@@ -1,0 +1,11 @@
+# CMake & Makefile
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Build
+gfx_engine
+
+# OS
+.DS_Store
