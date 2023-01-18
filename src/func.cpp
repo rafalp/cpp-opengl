@@ -1,5 +1,5 @@
 #include <iostream>
 
 void hello() {
-  std::cout << "Hello World, wsup?!";
+  std::cout << "Hello World, wusp?!" << std::endl;
 }
